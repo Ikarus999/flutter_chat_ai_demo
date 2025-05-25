@@ -1,6 +1,6 @@
 # tflite_demo
 
-A new Flutter project.
+An example app which demonstrates integration and usage of an on device LLM using flutter. 
 
 ## Getting Started
 
