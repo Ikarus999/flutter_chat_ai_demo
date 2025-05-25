@@ -1,4 +1,4 @@
 class AppAssets {
-  static const modelPath = 'assets/raw/gemma3_1b.tflite';
-  static const modelTaskPath = 'assets/raw/gemma3_1b_task.task';
+  static const modelPath = 'gemma3_1b.tflite';
+  static const modelTaskPath = 'gemma-2b-it-gpu-int4.bin';
 }
